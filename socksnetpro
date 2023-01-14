@@ -24,7 +24,14 @@
 ,
 {
 "title":"News 24 India",
- "url":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+ "url":"http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8",
+"img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
+
+}
+,
+{
+"title":"Pacino",
+ "url":"https://cdn3.invivo.bg/Codefashion_5500/index.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
 }
